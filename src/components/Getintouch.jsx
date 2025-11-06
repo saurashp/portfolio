@@ -29,7 +29,7 @@ const Contact = () => {
             <Phone className="w-6 h-6 text-indigo-800 flex-shrink-0" />
             <a
               href="tel:+918002309248"
-              className="text-gray-50 text-lg hover:text-primary-dark transition duration-300"
+              className="text-gray-50 text-lg hover:text-indigo-800 transition duration-300"
             >
               +91 80023 09248{" "}
               <span className="text-gray-400 text-sm">(Click to Call)</span>
